@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Allie's Blog in Progress
 header-img: img/home-bg.png
 email: alliemhow@gmail.com
 copyright_name: cheshicat
 description: > # this means to ignore newlines until "baseurl:"
-  
+  To Be Continued
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cheshicat
