@@ -1,15 +1,14 @@
 # Site settings
+author: Allison Howard
 title: Allie's Adventures in Coding
 header-img: img/home-bg.png
 email: alliemhow@gmail.com
-copyright_name: cheshicat
+copyright_name: Allison Howard
 description: > # this means to ignore newlines until "baseurl:"
-  brief excerpts from my internal monologue
+  Hopefully, getting a little less lost than Alice did
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cheshicat
-learn_profile: cheshicat
-email_username: alliemhow@gmail.com
 
 # Build settings
 markdown: kramdown
