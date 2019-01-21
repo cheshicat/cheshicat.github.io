@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why Become a Software Developer"
-date:       2018-12-29 00:39:41 +0000
+title:      "Why Become a Software Developer?"
+date:       2018-12-28 19:39:42 -0500
 permalink:  why_become_a_software_developer
 ---
 
