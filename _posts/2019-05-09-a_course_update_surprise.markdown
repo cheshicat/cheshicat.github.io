@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "A Course Update Surprise"
+date:       2019-05-09 12:07:57 +0000
+permalink:  a_course_update_surprise
+---
+
+My laptop has been out of commission for over two weeks after the hinge broke over the spring holidays. Purely due to the bad timing and other bad luck, I've been without a real computer for nearly 2.5 weeks. The relief in getting my machine back just a few days ago was also unfortunately shortlived, as it seems the repair shop did not quite reconnect my screen. Luckily my external monitor has been acceptable on its own for a few days, because I really could not wait to get back to work after missing so much time. I was so laser focused that I almost failed to notice the course update.
+
+Yesterday I switched over to the latest update. It was never a question of whether or not I'd choose to do so, regardless of whether it caused more work or time in the course - the whole point is to learn, and how foolish could you be to reject the good luck of having the most current information literally handed to you while you're still learning? I was curious and a little excited, and started pulling up lessons before realling reading about the update and feeling that awful feeling again. Was my luck this month ever going to turn around? Of all sections, I'd be thrown back into my least favorite by far, HTML and especially CSS. The combination of constant video lessons with no transcript, and time-consuming labs spent tweaking little details...I was *very* unhappy. 
+
+And then last night and this morning I actually started chugging through, figuring I could always take a break with other material if it got too tedious. And while I have been switching back and forth, I'm shocked and proud to say that I just finished the extra HTML labs in a fraction of the time it would usually take. As it turns out, I was retaining a lot more than I thought, and the new written lessons with labs that seem to test my ability, and not just my fastidiousness, flow incredibly well. Now my bad week has turned into a good one and I feel energized to keep on going. Hopefully the CSS labs have the same result, and I can keep up the momentum to get back on track and finish my goals.
+
+This is another reminder that while rough patches happen, I shouldn't doubt my own abilities and skills, and I shouldn't forget that the right tools are really vital. A little tweak in the lesson format, and suddenly my brain was able to focus and connect the information floating around in there. There's no one right way for every person to learn, but there is probably at least one right way for *me* to learn. I am getting to know myself better along with everything else. Surprises like this have become one of my favorite things about learning to code - you are always learning, always, though very often not in any way you'd expect.
