@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Codeland 2019!"
+date:       2019-07-30 06:13:13 +0000
+permalink:  codeland_2019
+---
+
+
+Codeland 2019 was my first real "coding conference". It really reinvigorated me and helped me feel more confident about this journey!
+
+Other than learning some useful skills in a Github workshop and getting to hear about some really interesting projects, I met so many amazing people (including some recent Flatiron grads!). But what really interested me were two themes that kept repeating over and over:
+
+1) Programming is so much more than just the stereotype! It's problem solving and creative thinking, and working with others to get a final result. The applications of what we learn are way further reaching than anyone would initially think of!
+
+2) Don't wait for others to solve a problem. It's okay to break rules that are set in place by greedy people when you're working together to legitemately make the world a better place. And following that notion, open source projects are incredible for enabling us to do this.
+
+The attitude was refreshing and positive, and it was so cool to see so many different types of people at different stages in their journey in tech!
